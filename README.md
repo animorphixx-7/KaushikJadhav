@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 Hi, I'm Kaushik Jadhav  <br>🎓 Computer Engineering Student  <br>💻 Java | Python | SQL | Projects | Research  <br><br>Passionate about building real-world applications, writing clean code, and learning emerging technologies.  <br>Currently exploring backend development, ML basics, and academic research.<br>
 
 
